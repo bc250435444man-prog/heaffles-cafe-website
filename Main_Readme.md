@@ -9,7 +9,7 @@ A mobile-first, SEO-friendly single-page website for **Heaffles Café & Fast Foo
 
 ## 🚀 Live Demo
 
-[Add your GitHub Pages link here]
+https://heaffles-demo.netlify.app
 
 ## ✨ Features
 
